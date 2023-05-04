@@ -1,0 +1,48 @@
+
+.bg{
+    
+    background: #fff url(D:\reacttutorial\jobseeker\bgg.jpg) center center/cover no-repeat;
+   padding: 2.45%;
+    
+}
+
+.jobkeeper-form{
+    margin-left: auto; margin-right: auto; width:30em;
+}
+.jobseeker{
+    margin-left: auto; margin-right: auto; width: 100%;
+    
+    
+    
+
+}
+.form-tiitle{
+    
+    font-family:cursive;
+    font-size: 3em;
+    text-align: center;
+    
+}
+.inputText{
+    
+    padding: 1%;
+    margin: 1%;
+    width: 100%;
+    border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: groove;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size:medium;
+  background-color: #ffffff00;
+
+}
+.form-submit{
+    padding: 2%;
+    width: 50%;
+    text-align: center;
+  
+    background-color: darkgray;
+    font-size: larger;
+    border-color: #fff;
+}
